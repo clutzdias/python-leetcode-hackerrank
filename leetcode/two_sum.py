@@ -1,3 +1,8 @@
+##The Goal is to find the index of the numbers which corresponds to the target sum
+##Example: in list nums = [2,7,9,3] and target = 9, the output should be [0,1],
+##because this is where 2 and 7 are in the list;
+##Notice that the problem involves assuming there is only one correct answer on the list.
+
 from typing import List
 import copy
 
